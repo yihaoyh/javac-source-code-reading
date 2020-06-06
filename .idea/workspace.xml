@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e5efd40f-d999-449e-99cb-50638680c3da" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1cvQwGg8iXprHFpGyWIZ2R3Y5do" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sun.tools.javac.Main" />
+      <module name="JavaCodeReading" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sun.tools.javac.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.yihao.leetcode.Main" />
+      <module name="JavaCodeReading" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e5efd40f-d999-449e-99cb-50638680c3da" name="Default Changelist" comment="" />
+      <created>1591406823840</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591406823840</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="602" y="121" key="#Project_Structure" timestamp="1591434981842">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="361" y="71" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1591407172899" />
+    <state x="602" y="121" key="#Project_Structure/0.0.2560.1400@0.0.2560.1400" timestamp="1591434981842" />
+    <state x="900" y="295" key="CommitChangelistDialog2" timestamp="1591435116901">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="900" y="295" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1591435116901" />
+    <state x="790" y="217" key="FileChooserDialogImpl" timestamp="1591434783237">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="790" y="217" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1591434783237" />
+    <state x="270" y="55" key="SettingsEditor" timestamp="1591407122944">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1591407122944" />
+    <state x="961" y="300" width="638" height="801" key="find.popup" timestamp="1591434988451">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="961" y="300" width="638" height="801" key="find.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1591434988451" />
+  </component>
+</project>
